@@ -1,7 +1,7 @@
 
-import BottomNav from "@/app/components/BottomNav";
 import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
+import PhoneCall from "@/app/components/posts/PhoneCall";
 import TeamProfile from "@/app/components/TeamProfile";
 import Topbar from "@/app/components/Topbar";
 ;
@@ -25,7 +25,7 @@ part of i-Revive. She ensures that women receive expert guidance in maternal
 health, offering a unique blend of medical expertise and Hijama Cupping.`}
       />
       <Footer />
-      <BottomNav />
+      <PhoneCall />
     </>
   );
 }

@@ -1,10 +1,10 @@
 import About from "./components/About";
 import BackToTop from "./components/BackToTop";
-import BottomNav from "./components/BottomNav";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import HeroSection from "./components/Herosection";
 import OurTeam from "./components/OurTeam";
+import PhoneCall from "./components/posts/PhoneCall";
 import Testimonial from "./components/Testimonial";
 import Topbar from "./components/Topbar";
 import WhatWeDo from "./components/WhatWeDo";
@@ -23,7 +23,7 @@ export default function Home() {
       <Testimonial />
       <Footer />
       <BackToTop />
-      <BottomNav />
+      <PhoneCall />
     </div>
   );
 }

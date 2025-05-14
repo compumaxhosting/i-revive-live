@@ -118,7 +118,7 @@ export default function WhyHijama() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -134,7 +134,7 @@ export default function WhyHijama() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
+          <Link href="/post/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Relief from Pain and Stress: Discovering Hijama Cupping Therapy
             </h1>
@@ -148,7 +148,7 @@ export default function WhyHijama() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad">
+          <Link href="/post/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               The Ultimate Guide to Cupping Therapy for Women in Hyderabad
             </h1>
@@ -162,7 +162,7 @@ export default function WhyHijama() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/why-choose-a-female-hijama-specialist-in-hyderabad">
+          <Link href="/post/why-choose-a-female-hijama-specialist-in-hyderabad">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Why Choose a Female Hijama Specialist in Hyderabad?
             </h1>

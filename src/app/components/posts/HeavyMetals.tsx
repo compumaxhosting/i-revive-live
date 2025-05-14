@@ -276,7 +276,7 @@ export default function HeavyMetals() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -294,7 +294,7 @@ export default function HeavyMetals() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/what-is-hijama-cupping"
+              href="/post/what-is-hijama-cupping"
               className="text-blue-600 hover:underline"
             >
               What is Hijama Cupping?
@@ -311,7 +311,7 @@ export default function HeavyMetals() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/why-hijama-effects-of-hijama-cupping"
+              href="/post/why-hijama-effects-of-hijama-cupping"
               className="text-blue-600 hover:underline"
             >
               Effects of Hijama Cupping
@@ -328,7 +328,7 @@ export default function HeavyMetals() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/treating-spider-veins-varicose-veins-by-hijama-cupping"
+              href="/post/treating-spider-veins-varicose-veins-by-hijama-cupping"
               className="text-blue-600 hover:underline"
             >
               Treating Spider Veins, Varicose Veins by Hijama Cupping

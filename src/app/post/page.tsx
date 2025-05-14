@@ -5,6 +5,7 @@ import OurBlog from "../components/OurBlog";
 import Topbar from "../components/Topbar";
 import Breadcrumb from "../components/BreadCrumb";
 import BackToTop from "../components/BackToTop";
+import PhoneCall from "../components/posts/PhoneCall";
 
 const page = () => {
   return (
@@ -16,6 +17,7 @@ const page = () => {
       <OurBlog />
       <Footer />
          <BackToTop />
+         <PhoneCall />
 
     </>
   );

@@ -4,6 +4,7 @@ import Footer from "../components/Footer";
 import BestHijamaCentreForLadiesHyderabad from '../components/BestHijamaCentreForLadiesHyderabad';
 import Topbar from '../components/Topbar';
 import BackToTop from '../components/BackToTop';
+import PhoneCall from '../components/posts/PhoneCall';
 
 const page = () => {
   return (
@@ -13,6 +14,7 @@ const page = () => {
     <BestHijamaCentreForLadiesHyderabad />
      <Footer/> 
      <BackToTop/>
+     <PhoneCall/>
     </>
   )
 }

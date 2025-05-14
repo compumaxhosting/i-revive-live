@@ -26,13 +26,19 @@ const About = () => {
         </div>
 
         <div className="md:col-span-4">
-          <h3 className="flex items-center gap-4 text-[#99b760] font-semibold text-2xl md:text-3xl font-playfair-display uppercase tracking-wider">
-            What We Do
-            <span className="flex flex-col gap-[5px] mt-2">
-              <span className="w-12 h-[2px] bg-[#99b760]"></span>
-              <span className="w-24 h-[2px] bg-[#99b760]"></span>
-            </span>
-          </h3>
+          <div className="flex justify-center">
+            <h3 className="flex items-center gap-4 text-[#99b760] font-semibold text-2xl md:text-3xl font-playfair-display uppercase tracking-wider pb-6 text-center">
+              <span className="flex flex-col gap-[5px] mt-2 transform scale-x-[-1]">
+                <span className="w-6 sm:w-12 h-[2px] bg-[#99b760]"></span>
+                <span className="w-12 sm:w-20 h-[2px] bg-[#99b760]"></span>
+              </span>
+              What We Do
+              <span className="flex flex-col gap-[5px] mt-2">
+                <span className="w-6 sm:w-12 h-[2px] bg-[#99b760]"></span>
+                <span className="w-12 sm:w-20 h-[2px] bg-[#99b760]"></span>
+              </span>
+            </h3>
+          </div>
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-medium text-gray-800 leading-snug mb-4 font-playfair-display">
             Healing Through Hijama-Natural Wellness for Your Body
           </h2>

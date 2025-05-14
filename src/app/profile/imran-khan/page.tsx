@@ -1,6 +1,7 @@
-import BottomNav from "@/app/components/BottomNav";
+import BackToTop from "@/app/components/BackToTop";
 import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
+import PhoneCall from "@/app/components/posts/PhoneCall";
 import TeamProfile from "@/app/components/TeamProfile";
 import Topbar from "@/app/components/Topbar";
 
@@ -20,7 +21,8 @@ practicing Raqi, mentored by Sheikh Abu Nadeer of RuqyaHealing (UK),
 allowing him to address both the physical and metaphysical aspects of healing.`}
       />
       <Footer />
-      <BottomNav />
+      <BackToTop />
+      <PhoneCall />
     </>
   );
 }

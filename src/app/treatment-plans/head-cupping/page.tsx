@@ -1,10 +1,11 @@
 "use client";
 
-import BottomNav from "@/app/components/BottomNav";
+import BackToTop from "@/app/components/BackToTop";
 import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
 import Topbar from "@/app/components/Topbar";
 import HeadCupping from "@/app/components/plans/HeadCupping";
+import PhoneCall from "@/app/components/posts/PhoneCall";
 
 export default function HeadCuppingPage() {
   return (
@@ -13,7 +14,8 @@ export default function HeadCuppingPage() {
       <Header />
       <HeadCupping />
       <Footer />
-      <BottomNav />
+      <BackToTop />
+      <PhoneCall />
     </div>
   );
 }

@@ -1,7 +1,8 @@
 
-import BottomNav from "@/app/components/BottomNav";
+import BackToTop from "@/app/components/BackToTop";
 import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
+import PhoneCall from "@/app/components/posts/PhoneCall";
 import TeamProfile from "@/app/components/TeamProfile";
 import Topbar from "@/app/components/Topbar";
 
@@ -27,7 +28,8 @@ export default function MohammedKhanPage() {
         focused on helping people get better, feel stronger, and live healthier lives.`}
       />
       <Footer />
-      <BottomNav />
+      <BackToTop />
+      <PhoneCall />
     </>
   );
 }

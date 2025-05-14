@@ -38,8 +38,8 @@ export default function OurTeam() {
     <section className="py-16 px-6 lg:px-44 bg-white">
       <div className="container mx-auto">
         {/* Heading */}
-        <div className="flex justify-center items-center">
-          <h3 className="flex items-center gap-4 text-[#99b760] font-semibold text-2xl md:text-3xl font-playfair-display uppercase tracking-wider pb-12 md:pb-16">
+        <div className="flex justify-center">
+          <h3 className="flex items-center gap-4 text-[#99b760] font-semibold text-2xl md:text-3xl font-playfair-display uppercase tracking-wider pb-12 md:pb-16 text-center">
             <span className="flex flex-col gap-[5px] mt-2 transform scale-x-[-1]">
               <span className="w-12 h-[2px] bg-[#99b760]"></span>
               <span className="w-20 h-[2px] bg-[#99b760]"></span>

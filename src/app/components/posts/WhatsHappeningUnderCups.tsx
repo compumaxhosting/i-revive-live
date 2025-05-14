@@ -91,7 +91,7 @@ export default function WhatsHappeningUnderCups() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -107,7 +107,7 @@ export default function WhatsHappeningUnderCups() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/hormonal-issues">
+          <Link href="/post/hormonal-issues">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Hormonal Issues?
             </h1>
@@ -121,7 +121,7 @@ export default function WhatsHappeningUnderCups() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/bloodcleanse">
+          <Link href="/post/bloodcleanse">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Why blood cleansing is vital?
             </h1>
@@ -135,7 +135,7 @@ export default function WhatsHappeningUnderCups() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/why-hijama">
+          <Link href="/post/why-hijama">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Why Hijama?
             </h1>

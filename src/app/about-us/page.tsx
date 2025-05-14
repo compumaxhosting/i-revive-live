@@ -6,7 +6,7 @@ import Breadcrumb from "../components/BreadCrumb";
 import Topbar from "../components/Topbar";
 import OurTeam from "../components/OurTeam";
 import BackToTop from "../components/BackToTop";
-import BottomNav from "../components/BottomNav";
+import PhoneCall from "../components/posts/PhoneCall";
 
 const page = () => {
   return (
@@ -21,7 +21,7 @@ const page = () => {
       <OurTeam />
       <Footer/>
       <BackToTop />
-      <BottomNav />
+      <PhoneCall />
     </>
   )
 }

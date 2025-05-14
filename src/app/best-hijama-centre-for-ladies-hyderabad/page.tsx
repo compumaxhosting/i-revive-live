@@ -3,7 +3,8 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import LadiesHijama from '../components/LadiesHijama';
 import Topbar from '../components/Topbar';
-import BottomNav from '../components/BottomNav';
+import PhoneCall from '../components/posts/PhoneCall';
+import BackToTop from '../components/BackToTop';
 
 const page = () => {
   return (
@@ -12,7 +13,8 @@ const page = () => {
      <Header/>
      <LadiesHijama/>
      <Footer/> 
-     <BottomNav/>
+     <BackToTop/>
+     <PhoneCall/>
     </>
   )
 }

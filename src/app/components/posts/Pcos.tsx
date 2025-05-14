@@ -140,7 +140,7 @@ export default function PCOS() {
             </div>
             <div className="flex justify-between py-4">
               <p className="text-gray-700 text-justify">Recent Posts</p>
-              <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
+              <Link href="/post">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           <div>
@@ -152,7 +152,7 @@ export default function PCOS() {
               className="w-full aspect-video object-cover object-top h-44"
             />
             <h1 className="text-xl lg:text-2xl py-2">
-              <Link href="/blog/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad" className="text-blue-600 hover:underline">
+              <Link href="/post/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad" className="text-blue-600 hover:underline">
                 The Ultimate Guide to Cupping Therapy for Women in Hyderabad
               </Link>
             </h1>
@@ -166,7 +166,7 @@ export default function PCOS() {
               className="w-full aspect-video object-cover object-top h-44"
             />
             <h1 className="text-xl lg:text-2xl py-2">
-              <Link href="/blog/why-choose-a-female-hijama-specialist-in-hyderabad" className="text-blue-600 hover:underline">
+              <Link href="/post/why-choose-a-female-hijama-specialist-in-hyderabad" className="text-blue-600 hover:underline">
                 Why Choose a Female Hijama Specialist in Hyderabad?
               </Link>
             </h1>
@@ -180,7 +180,7 @@ export default function PCOS() {
               className="w-full aspect-video object-cover object-top h-44"
             />
             <h1 className="text-xl lg:text-2xl py-2">
-              <Link href="/blog/hormonal-issues" className="text-blue-600 hover:underline">
+              <Link href="/post/hormonal-issues" className="text-blue-600 hover:underline">
                 Hormonal Issues?
               </Link>
             </h1>

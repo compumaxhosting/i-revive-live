@@ -30,7 +30,7 @@ const BackToTop = () => {
       }`}
       aria-label="Back to Top"
     >
-      <GoArrowUp size={27} className="text-white animate-bounce"/> 
+      <GoArrowUp size={23} className="text-white animate-bounce"/> 
     </button>
   );
 };

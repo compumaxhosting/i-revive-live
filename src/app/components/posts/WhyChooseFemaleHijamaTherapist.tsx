@@ -105,7 +105,7 @@ export default function WhyChooseFemaleHijamaTherapist() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -121,7 +121,7 @@ export default function WhyChooseFemaleHijamaTherapist() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/what-s-happening-under-the-cups">
+          <Link href="/post/what-s-happening-under-the-cups">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               What&apos;s happening under the Cups?
             </h1>
@@ -135,7 +135,7 @@ export default function WhyChooseFemaleHijamaTherapist() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/what-is-hijama-cupping">
+          <Link href="/post/what-is-hijama-cupping">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               What is Hijama Cupping?
             </h1>
@@ -149,7 +149,7 @@ export default function WhyChooseFemaleHijamaTherapist() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/why-hijama-effects-of-hijama-cupping">
+          <Link href="/post/why-hijama-effects-of-hijama-cupping">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Effects of Hijama Cupping
             </h1>

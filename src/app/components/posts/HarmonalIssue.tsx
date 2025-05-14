@@ -125,7 +125,7 @@ export default function HarmonalIssue() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -141,7 +141,7 @@ export default function HarmonalIssue() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/treating-spider-veins-varicose-veins-by-hijama-cupping">
+          <Link href="/post/treating-spider-veins-varicose-veins-by-hijama-cupping">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Treating Spider Veins, Varicose Veins by Hijama Cupping
             </h1>
@@ -155,7 +155,7 @@ export default function HarmonalIssue() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/pcos-answer-is-hijama-cupping">
+          <Link href="/post/pcos-answer-is-hijama-cupping">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               PCOS: Answer is Hijama Cupping
             </h1>
@@ -169,7 +169,7 @@ export default function HarmonalIssue() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/best-hijama-practices">
+          <Link href="/post/best-hijama-practices">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Best Hijama Practices
             </h1>

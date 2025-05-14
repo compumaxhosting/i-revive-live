@@ -118,7 +118,7 @@ export default function WhyBloodCleanse() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -134,7 +134,7 @@ export default function WhyBloodCleanse() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/what-s-in-a-cup">
+          <Link href="/post/what-s-in-a-cup">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Heavy Metals Removal by Hijama
             </h1>
@@ -148,7 +148,7 @@ export default function WhyBloodCleanse() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/stress-and-hijama">
+          <Link href="/post/stress-and-hijama">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Stress and Hijama
             </h1>
@@ -162,7 +162,7 @@ export default function WhyBloodCleanse() {
             height={600}
             className="w-full aspect-video object-cover object-top h-44"
           />
-          <Link href="/blog/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
+          <Link href="/post/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
             <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
               Relief from Pain and Stress: Discovering Hijama Cupping Therapy
             </h1>

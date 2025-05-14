@@ -1,7 +1,7 @@
 import BackToTop from "@/app/components/BackToTop";
-import BottomNav from "@/app/components/BottomNav";
 import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
+import PhoneCall from "@/app/components/posts/PhoneCall";
 import TeamProfile from "@/app/components/TeamProfile";
 import Topbar from "@/app/components/Topbar";
 
@@ -25,7 +25,7 @@ that values the connection between mind, body, and healing.`}
       />
       <Footer />
       <BackToTop />
-      <BottomNav />
+      <PhoneCall />
     </>
   );
 }

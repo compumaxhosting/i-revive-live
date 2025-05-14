@@ -1,6 +1,6 @@
-import BottomNav from "@/app/components/BottomNav"
 import Footer from "@/app/components/Footer"
 import Header from "@/app/components/Header"
+import PhoneCall from "@/app/components/posts/PhoneCall"
 import TheUltimateGuidance from "@/app/components/posts/TheUltimateGuidance"
 import Topbar from "@/app/components/Topbar"
 
@@ -11,7 +11,7 @@ const page = () => {
       <Header/>
       <TheUltimateGuidance/>
       <Footer/>
-      <BottomNav/>
+      <PhoneCall/>
     </>
   )
 }

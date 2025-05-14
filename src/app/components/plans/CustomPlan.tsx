@@ -31,10 +31,10 @@ export default function CustomPlan() {
             issues focused sessions. Personal areas of pain are concentrated
             upon.
             </p>
-            <div className="mt-8">
+            <div className="m-4 md:mt-8 flex justify-center md:justify-start">
               <Link
-                href="/book-appointment"
-                className="bg-primary text-white px-7 py-3 rounded-full border border-hovershed hover:bg-white hover:text-hovershed hidden lg:inline-block"
+                href="/appointments"
+                className="bg-primary text-white px-7 py-3 rounded-full border border-hovershed hover:bg-white hover:text-hovershed"
               >
                 Book Appointment
               </Link>

@@ -188,7 +188,7 @@ export default function StressAndHijama() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -206,7 +206,7 @@ export default function StressAndHijama() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/pcos-answer-is-hijama-cupping"
+              href="/post/pcos-answer-is-hijama-cupping"
               className="text-blue-600 hover:underline"
             >
               PCOS: Answer is Hijama Cupping
@@ -223,7 +223,7 @@ export default function StressAndHijama() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/best-hijama-practices"
+              href="/post/best-hijama-practices"
               className="text-blue-600 hover:underline"
             >
               Best Hijama Practices
@@ -240,7 +240,7 @@ export default function StressAndHijama() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/what-s-in-a-cup"
+              href="/post/what-s-in-a-cup"
               className="text-blue-600 hover:underline"
             >
               Heavy Metals Removal by Hijama

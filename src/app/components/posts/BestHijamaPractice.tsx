@@ -172,7 +172,7 @@ export default function BestHijamaPractice() {
       </div>
       <div className="flex justify-between py-4">
         <p className="text-gray-700 text-justify">Recent Posts</p>
-        <Link href="/blog">
+        <Link href="/post">
           {" "}
           <p className="text-gray-700 hover:underline cursor-pointer">
             See all
@@ -190,7 +190,7 @@ export default function BestHijamaPractice() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/bloodcleanse"
+              href="/post/bloodcleanse"
               className="text-blue-600 hover:underline"
             >
               Why blood cleansing is vital?
@@ -207,7 +207,7 @@ export default function BestHijamaPractice() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/why-hijama"
+              href="/post/why-hijama"
               className="text-blue-600 hover:underline"
             >
               Why Hijama?
@@ -224,7 +224,7 @@ export default function BestHijamaPractice() {
           />
           <h1 className="text-xl lg:text-2xl py-2">
             <Link
-              href="/blog/what-s-happening-under-the-cups"
+              href="/post/what-s-happening-under-the-cups"
               className="text-blue-600 hover:underline"
             >
               What&apos;s happening under the Cups?

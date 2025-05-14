@@ -5,7 +5,7 @@ import Topbar from "../components/Topbar";
 import Breadcrumb from "../components/BreadCrumb";
 import BackToTop from "../components/BackToTop";
 import ContactFormTwo from "../components/ContactFormTwo";
-import BottomNav from "../components/BottomNav";
+import PhoneCall from "../components/posts/PhoneCall";
 
 const page = () => {
   return (
@@ -16,7 +16,7 @@ const page = () => {
       <ContactFormTwo />
       <Footer />
          <BackToTop />
-         <BottomNav />
+         <PhoneCall />
     </>
   );
 };

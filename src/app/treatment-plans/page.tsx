@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 import Breadcrumb from "../components/BreadCrumb";
 import BackToTop from "../components/BackToTop";
 import Topbar from "../components/Topbar";
-import BottomNav from "../components/BottomNav";
+import PhoneCall from "../components/posts/PhoneCall";
 
 const page = () => {
   return (
@@ -19,7 +19,7 @@ const page = () => {
       <WhatWeDo showMoreButton={false}/>
       <Footer/>
          <BackToTop />
-         <BottomNav />
+         <PhoneCall/>
     </>
   )
 }

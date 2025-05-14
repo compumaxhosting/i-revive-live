@@ -5,7 +5,7 @@ import CoursesSection from '../components/CoursesSection'
 import Topbar from '../components/Topbar'
 import Breadcrumb from '../components/BreadCrumb'
 import BackToTop from '../components/BackToTop'
-import BottomNav from '../components/BottomNav'
+import PhoneCall from '../components/posts/PhoneCall'
 
 const page = () => {
   return (
@@ -19,7 +19,7 @@ const page = () => {
       <CoursesSection />
       <Footer />
          <BackToTop />
-         <BottomNav />
+         <PhoneCall />
     </div>
   )
 }
