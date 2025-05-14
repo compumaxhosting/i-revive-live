@@ -6,7 +6,7 @@ import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
 export default function HarmonalIssue() {
   return (
-    <div className="max-w-4xl mx-auto py-6 md:py-16">
+    <div className="max-w-4xl px-6 mx-auto py-6 md:py-16 pb-8">
       <div>
         <p className="text-gray-700 text-justify">Oct 30, 2024 3 min read</p>
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
