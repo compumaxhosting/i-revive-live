@@ -1,0 +1,29 @@
+import React from "react";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+import AboutTwo from "../components/About";
+import Breadcrumb from "../components/BreadCrumb";
+import Topbar from "../components/Topbar";
+import OurTeam from "../components/OurTeam";
+import BackToTop from "../components/BackToTop";
+import BottomNav from "../components/BottomNav";
+
+const page = () => {
+  return (
+    <>
+    <Topbar />
+      <Header/>
+      <Breadcrumb
+        title="About Us"
+        subtitle="Guided by Experience, Rooted in Wellness — Discover a Healthier You With Cupping Therapy"
+      />
+      <AboutTwo />
+      <OurTeam />
+      <Footer/>
+      <BackToTop />
+      <BottomNav />
+    </>
+  )
+}
+
+export default page
