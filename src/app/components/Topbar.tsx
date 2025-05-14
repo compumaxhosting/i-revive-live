@@ -27,7 +27,7 @@ const Topbar = () => {
         <div className="items-center space-x-4 ml-3 hidden md:flex">
           <span className="flex items-center text-lg">
             <FaLocationDot size={16} className="text-primary mr-1" />
-            Mehdipatnam, Hyd, Telangana
+            Mehdipatnam, Hyderabad1243, Telangana
           </span>
         </div>
        <div className="text-center text-lg hidden lg:flex items-center justify-center space-x-2">
