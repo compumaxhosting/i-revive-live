@@ -75,7 +75,7 @@ export default function ReliefFromPain() {
         <div className="w-full aspect-square max-h-[750px] p-4 lg:p-14">
           <Image
             alt="hi"
-            src="/post-img-1.png"
+            src="/b1.jpg"
             width={600}
             height={600}
             className="w-full h-full max-h-[750px] object-cover"
