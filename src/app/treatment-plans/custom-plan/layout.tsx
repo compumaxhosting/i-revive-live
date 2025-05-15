@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     title: "Custom Plan Therapy for Pain, Recovery & Performance | i-Revive Hyderabad",
     description:
       "The Custom Plan at i-Revive offers tailored cupping therapy sessions to address your specific needs,  from chronic pain to injury recovery and athletic performance enhancement, including metaphysical issues.",
-    url: "https://www.i-revive.com/sunnah-basic",
+    url: "https://www.i-revive.com/treatment-plans/custom-plan",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/sunnah-basic",
+    canonical: "https://www.i-revive.com/treatment-plans/custom-plan",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

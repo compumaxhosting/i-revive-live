@@ -12,18 +12,27 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PCOS Treatment with Hijama Cupping Therapy in Hyderabad – Effective Relief from Symptoms",
+  title: "Hijama Cupping for PCOS: A Natural Solution to Hormonal Imbalance",
   description:
-    "Visit our Clinic. Address: 6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam, Hyderabad, Telangana 500028, India. Call: +91-8009944335",
+    "Discover how Hijama Cupping offers natural relief for PCOS symptoms. Learn about its benefits in managing hormonal imbalances, fertility issues, and overall well-being.",
   keywords: [
-    "Hijama benefits and reviews Hyderabad",
-    "Top-rated Hijama clinics Hyderabad",
+    "PCOS treatment",
+    "Hijama for PCOS",
+    "Polycystic Ovary Syndrome",
+    "hormonal imbalance therapy",
+    "natural PCOS cure",
+    "PCOD remedy",
+    "cupping therapy benefits",
+    "alternative medicine for PCOS",
+    "fertility and PCOS",
+    "women's hormonal health",
   ],
+
   openGraph: {
-    title: "PCOS Treatment with Hijama Cupping Therapy in Hyderabad – Effective Relief from Symptoms",
+    title: "Hijama Cupping for PCOS: A Natural Solution to Hormonal Imbalance",
     description:
-      "Visit our Clinic. Address: 6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam, Hyderabad, Telangana 500028, India. Call: +91-8009944335",
-    url: "https://www.i-revive.com/contact-us",
+      "Discover how Hijama Cupping offers natural relief for PCOS symptoms. Learn about its benefits in managing hormonal imbalances, fertility issues, and overall well-being.",
+    url: "https://www.i-revive.com/post/pcos-answer-is-hijama-cupping",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -37,20 +46,24 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "PCOS Treatment with Hijama Cupping Therapy in Hyderabad – Effective Relief from Symptoms",
+    title: "Hijama Cupping for PCOS: A Natural Solution to Hormonal Imbalance",
     description:
-      "Visit our Clinic. Address: 6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam, Hyderabad, Telangana 500028, India. Call: +91-8009944335",
+      "Discover how Hijama Cupping offers natural relief for PCOS symptoms. Learn about its benefits in managing hormonal imbalances, fertility issues, and overall well-being.",
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/pcos-answer-is-hijama-cupping",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",
   },
 };
 
-export default function ContactLayout({ children }: { children: React.ReactNode }) {
+export default function ContactLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <div className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
       {children}
@@ -86,7 +99,8 @@ export default function ContactLayout({ children }: { children: React.ReactNode 
             image: "https://www.i-revive.com/i-revive-og-img.jpg",
             address: {
               "@type": "PostalAddress",
-              streetAddress: "6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam",
+              streetAddress:
+                "6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam",
               addressLocality: "Hyderabad",
               addressRegion: "TG",
               postalCode: "500028",

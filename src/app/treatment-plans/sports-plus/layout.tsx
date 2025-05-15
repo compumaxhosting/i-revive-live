@@ -12,26 +12,29 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hijama Therapy Reviews | i-Revive Client Testimonials in Hyderabad",
+  title:
+    "Cupping Therapy for Athletes & Faster Muscle Recovery | Sports Plus Plan",
   description:
-    "Discover what clients are saying about i-Revive's professional Hijama (Cupping) therapy services in Hyderabad. Real testimonials showcasing natural healing and wellness.",
+    "The Sports Plus plan at i-Revive is designed for athletes and fitness enthusiasts to reduce muscle recovery time, improve flexibility, and treat soreness, cramps, and strains using cupping therapy.",
   keywords: [
-  "Hijama therapy reviews",
-  "cupping therapy testimonials",
-  "i-Revive Hyderabad reviews",
-  "best Hijama center Hyderabad",
-  "natural healing therapy feedback",
-  "wet cupping therapy reviews",
-  "client experiences Hijama",
-  "wellness treatment testimonials",
-  "alternative therapy Hyderabad",
-  "Hijama success stories"
-],
+    "sports cupping therapy",
+    "athlete recovery cupping",
+    "gym recovery therapy",
+    "muscle soreness relief",
+    "plantar fasciitis cupping",
+    "improve flexibility Hyderabad",
+    "post-workout recovery plan",
+    "sports injury treatment",
+    "cupping for hamstring strain",
+    "athletic performance cupping",
+  ],
+
   openGraph: {
-    title: "Hijama Therapy Reviews | i-Revive Client Testimonials in Hyderabad",
+    title:
+      "Cupping Therapy for Athletes & Faster Muscle Recovery | Sports Plus Plan",
     description:
-      "Discover what clients are saying about i-Revive's professional Hijama (Cupping) therapy services in Hyderabad. Real testimonials showcasing natural healing and wellness.",
-    url: "https://www.i-revive.com/testimonials",
+      "The Sports Plus plan at i-Revive is designed for athletes and fitness enthusiasts to reduce muscle recovery time, improve flexibility, and treat soreness, cramps, and strains using cupping therapy.",
+    url: "https://www.i-revive.com/treatment-plans/lymphatic-cleanse",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -45,13 +48,14 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hijama Therapy Reviews | i-Revive Client Testimonials in Hyderabad",
+    title:
+      "Cupping Therapy for Athletes & Faster Muscle Recovery | Sports Plus Plan",
     description:
-      "Discover what clients are saying about i-Revive's professional Hijama (Cupping) therapy services in Hyderabad. Real testimonials showcasing natural healing and wellness.",
+      "The Sports Plus plan at i-Revive is designed for athletes and fitness enthusiasts to reduce muscle recovery time, improve flexibility, and treat soreness, cramps, and strains using cupping therapy.",
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/testimonials",
+    canonical: "https://www.i-revive.com/treatment-plans/lymphatic-cleanse",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

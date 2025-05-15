@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Certified Hijama Cupping Therapy Courses in Hyderabad – Learn from Experts",
     description:
       "Join professional Hijama Cupping Therapy courses in Hyderabad with expert guidance and hands-on  training. Learn dry, wet, and fire cupping techniques with certification",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/courses",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/courses",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

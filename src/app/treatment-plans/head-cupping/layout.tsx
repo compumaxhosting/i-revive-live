@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Head Cupping Therapy in Hyderabad | Hijama for Headaches, Sinus & Hair Growth",
     description:
       "Find relief from headaches, migraines, and sinus issues with Head Cupping (Hijama) at i-Revive,  Hyderabad. Encourages hair growth, treats metaphysical issues, and supports mental clarity for both women and men. ",
-    url: "https://www.i-revive.com/sunnah-basic",
+    url: "https://www.i-revive.com/treatment-plans/head-cupping",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/sunnah-basic",
+    canonical: "https://www.i-revive.com/treatment-plans/head-cupping",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

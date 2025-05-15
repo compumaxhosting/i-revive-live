@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Book Hijama (Cupping Therapy) for Women & Men | i-Revive Hyderabad",
     description:
       "Easily book your Hijama (cupping therapy) session at i-Revive in Hyderabad. We offer professional cupping therapy for both women and men to support natural healing and wellness.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/appointments",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/appointments",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

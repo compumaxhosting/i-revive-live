@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Hijama for Women in Hyderabad | Female Health & Wellness Therapy",
     description:
       "Experience expert Hijama therapy for women at i-Revive in Hyderabad. Safe, confidential sessions designed for female wellness, hormonal harmony, and natural pain relief.",
-    url: "https://www.i-revive.com/best-hijama-centre-for-ladies-hyderabad",
+    url: "https://www.i-revive.com/hijama-for-women-hyderabad",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/best-hijama-centre-for-ladies-hyderabad",
+    canonical: "https://www.i-revive.com/hijama-for-women-hyderabad",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

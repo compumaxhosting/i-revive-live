@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Infertility Cupping Therapy in Hyderabad | Boost Reproductive Health | i-Revive",
     description:
       "Improve reproductive health with Infertility Cupping Therapy at i-Revive. Clear blockages, balance  hormones, and enhance circulation to the reproductive organs, supporting ovulation, sperm production, and overall fertility.",
-    url: "https://www.i-revive.com/sunnah-basic",
+    url: "https://www.i-revive.com/treatment-plans/infertility-cupping",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/sunnah-basic",
+    canonical: "https://www.i-revive.com/treatment-plans/infertility-cupping",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

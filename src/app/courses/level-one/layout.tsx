@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Hijama Practitioner Launchpad – Level 1 Course in Hyderabad",
     description:
       "Join the Hijama Practitioner Launchpad – Level 1 Course in Hyderabad. A 5-day certified program with  theory and hands-on training for beginners seeking a solid foundation in cupping therapy.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/courses/level-one",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/courses/level-one",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Mohammed Khan – Visionary Leader & CEO of i-Revive | Health & Wellness ",
     description:
       "Mohammed Khan, CEO of Delta Group of Companies and a passionate entrepreneur, leads i-Revive with  a vision to revolutionize healthcare. His holistic approach focuses on the whole person, empowering people to live healthier and stronger lives",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/profile/mohammed-khan",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/profile/mohammed-khan",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

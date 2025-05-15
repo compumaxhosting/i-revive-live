@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Female Hijama Specialist in Hyderabad | Trusted Women’s Healing",
     description:
       "Discover the benefits of choosing a female hijama specialist in Hyderabad. Safe, comfortable, and  effective care tailored to women’s unique health needs.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/why-choose-a-female-hijama-specialist-in-hyderabad",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/why-choose-a-female-hijama-specialist-in-hyderabad",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

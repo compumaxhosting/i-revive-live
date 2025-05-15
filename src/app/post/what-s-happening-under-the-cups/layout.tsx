@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Cupping Therapy Explained: What Happens Under the Cups?",
     description:
       "Learn what happens under the cups during cupping therapy. Discover how it helps remove toxins,  stagnant blood, and impurities for better health and well-being. ",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/what-s-happening-under-the-cups",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/what-s-happening-under-the-cups",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

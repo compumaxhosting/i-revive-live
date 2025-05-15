@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "What is Hijama Cupping? Discover the Healing Benefits of Cupping",
     description:
       "Learn about Hijama cupping therapy, its history, benefits, and how it works to improve health, relieve  pain, and enhance overall well-being. ",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/what-is-hijama-cupping",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/what-is-hijama-cupping",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

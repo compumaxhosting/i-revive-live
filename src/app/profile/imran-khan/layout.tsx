@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Imran Khan – Certified Hijama & Ruqya Practitioner | i-Revive Hyderabad",
     description:
       "Imran Khan is a certified Hijama (cupping therapy) expert with training from Turkey, the US, and the UK. A skilled Raqi mentored by Sheikh Abu Nadeer (RuqyaHealing UK), he offers both physical and metaphysical healing at i-Revive, Hyderabad.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/profile/imran-khan",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/profile/imran-khan",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

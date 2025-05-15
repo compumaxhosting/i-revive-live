@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Hijama Cupping Therapy for Pain & Stress Relief | Natural Healing at i-Revive Hyderabad",
     description:
       "Discover the natural benefits of Hijama Cupping Therapy for pain relief, stress reduction, and holistic  healing at i-Revive Clinic in Hyderabad",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/best-hijama-practices",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/best-hijama-practices",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

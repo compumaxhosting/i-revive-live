@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Stress and Hijama: How Cupping Therapy Relieves Stress and Restores Balance",
     description:
       "Learn how Hijama Cupping Therapy effectively reduces stress and promotes mental clarity. Discover the  holistic benefits of cupping for relieving tension and boosting your well-being.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/stress-and-hijama",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/stress-and-hijama",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

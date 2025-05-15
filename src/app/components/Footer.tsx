@@ -29,7 +29,7 @@ const Footer = () => {
     { title: "Custom Plan", slug: "custom-plan" },
     {
       title: "Sports Plus",
-      slug: "why-choose-a-female-hijama-specialist-in-hyderabad",
+      slug: "sports-plus",
     },
   ];
 

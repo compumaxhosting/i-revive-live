@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "i-Revive Plan: Reset Your Body, Heal Chronic Issues & Boost Health",
     description:
       "The i-Revive Plan is a comprehensive body reset therapy that addresses diseases, chronic issues, and  imbalances. With a 21-day diet plan and cupping sessions, it revitalizes the body, boosts healing, and promotes overall wellness.",
-    url: "https://www.i-revive.com/sunnah-basic",
+    url: "https://www.i-revive.com/treatment-plans/i-revive-plan",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/sunnah-basic",
+    canonical: "https://www.i-revive.com/treatment-plans/i-revive-plan",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

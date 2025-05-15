@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Cupping Therapy for Women in Hyderabad | i-Revive Hijama Care",
     description:
       "Explore the benefits of cupping therapy for women in Hyderabad. From hormonal balance to pain relief,  i-Revive offers expert care tailored to women’s health.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

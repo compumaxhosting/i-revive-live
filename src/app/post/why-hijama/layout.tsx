@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Why Hijama Therapy? Sunnah Healing & Best Hijama in Hyderabad",
     description:
       "Explore the science and Sunnah behind Hijama therapy. Discover how i-Revive offers the best Hijama near you in Hyderabad for complete natural healing.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/why-hijama",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/why-hijama",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

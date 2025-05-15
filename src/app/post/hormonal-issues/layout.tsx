@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Hormonal Imbalance Treatment in Hyderabad | i-Revive Hijama Care",
     description:
       "Struggling with hormonal imbalance? Discover holistic healing through Hijama therapy in Hyderabad.  Restore your body’s balance naturally with i-Revive.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/hormonal-issues",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/hormonal-issues",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

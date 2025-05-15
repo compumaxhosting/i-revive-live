@@ -99,9 +99,9 @@ export const treatmentPlansData = [
   },
   {
     id: 9,
-    title: "Sports Plus Hijama Therapy for Athletes | i-Revive",
+    title: "Sports Plus",
     image: "/SportPlan.jpg",
-    slug: "why-choose-a-female-hijama-specialist-in-hyderabad",
+    slug: "sports-plus",
     content: <SportsPlus />,
     description:
       "Enhance athletic performance and recovery with Sports Plus Hijama therapy at i-Revive, Hyderabad. Specialized treatment for athletes seeking peak performance.",

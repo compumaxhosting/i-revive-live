@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Vital Organ Cleanse with Hijama Therapy in Hyderabad | i-Revive",
     description:
       "Cleanse and detox your vital organs with professional Hijama (cupping therapy) at i-Revive, Hyderabad. Safe and natural treatment for both women and men to support internal wellness and  vitality",
-    url: "https://www.i-revive.com/sunnah-basic",
+    url: "https://www.i-revive.com/treatment-plans/vital-organ-cleanse",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/sunnah-basic",
+    canonical: "https://www.i-revive.com/treatment-plans/vital-organ-cleanse",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

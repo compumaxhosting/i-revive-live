@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Fareeda Nikhat – Experienced OB-GYN & Feto-Maternal Specialist | i-Revive Hyderabad",
     description:
       "Dr. Fareeda Nikhat, a highly respected OB-GYN and Fetal Medicine expert with 19+ years of experience, offers expert maternal care and combines her medical expertise with Hijama Cupping at i-Revive, Hyderabad.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/profile/fareeda-nikhat",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/profile/fareeda-nikhat",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

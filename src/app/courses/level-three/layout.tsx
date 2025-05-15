@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Level 3 Hijama Mastery Course in Hyderabad – Personal Mentorship & Advanced Holistic Healing",
     description:
       "Enroll in the Level 3 Hijama Mastery Course in Hyderabad. Get 4 weeks of personalized mentorship, 15  hours of one-on-one training, live case exposure, and advanced holistic healing techniques integrating Sunnah and science",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/courses/level-three",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/courses/level-three",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

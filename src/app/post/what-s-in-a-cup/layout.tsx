@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "What's in a Cup? Understanding Hijama Cupping Therapy Benefits",
     description:
       "Discover the powerful effects of Hijama Cupping Therapy. Learn how this ancient technique detoxifies  the body, improves circulation, and promotes healing. Explore the benefits today!",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/what-s-in-a-cup",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/what-s-in-a-cup",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

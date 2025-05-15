@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Advanced Hijama Course – Level 2 Training in Hyderabad | Hands-On Cupping Therapy Certification",
     description:
       "Enroll in the Level 2 Advanced Hijama Training Course in Hyderabad. Gain in-depth hands-on experience  and advanced theoretical knowledge, including 7 days of internship at i-Revive Wellness Clinic",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/courses/level-two",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/courses/level-two",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Why Hijama? Effects of Hijama Cupping Therapy for Pain Relief, Detox, and Healing",
     description:
       "Discover the benefits of Hijama cupping therapy. Learn how this ancient technique helps with pain  relief, improves circulation, detoxifies the body, and boosts the immune system. Find out why Hijama is effective for holistic healing.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/why-hijama-effects-of-hijama-cupping",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/why-hijama-effects-of-hijama-cupping",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

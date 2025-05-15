@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Spider & Varicose Veins Treatment with Hijama Cupping in Hyderabad",
     description:
       "Learn how Hijama cupping therapy in Hyderabad helps treat spider veins and varicose veins by  improving blood circulation and reducing symptoms like swelling, pain, and discomfort. Understand the stages of varicose veins and how cupping can alleviate these conditions naturally. ",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/treating-spider-veins-varicose-veins-by-hijama-cupping",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/treating-spider-veins-varicose-veins-by-hijama-cupping",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

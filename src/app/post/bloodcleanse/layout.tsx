@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Blood Cleansing Hijama Therapy in Hyderabad | i-Revive Wellness",
     description:
       "Discover how Hijama therapy helps cleanse your blood naturally by removing toxins and improving  circulation. Visit i-Revive for detox treatments in Hyderabad.",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/post/bloodcleanse",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/post/bloodcleanse",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

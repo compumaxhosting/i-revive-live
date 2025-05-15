@@ -12,27 +12,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Asma Moinuddin – MBBS, Naturopath & Holistic Health Expert | i-Revive Hyderabad",
+  title: "Hijama Therapy Reviews | i-Revive Client Testimonials in Hyderabad",
   description:
-    "Dr. Asma Moinuddin, an MBBS and MD in Naturopathic Medicine (USA), is committed to helping  individuals achieve optimal health through natural healing at i-Revive. She offers a holistic approach addressing both physical and emotional well-being",
+    "Discover what clients are saying about i-Revive's professional Hijama (Cupping) therapy services in Hyderabad. Real testimonials showcasing natural healing and wellness.",
   keywords: [
-  "Asma Moinuddin Naturopath",
-  "MBBS doctor Hyderabad",
-  "naturopathic medicine expert",
-  "holistic health practitioner",
-  "natural healing Hyderabad",
-  "lifestyle transformation doctor",
-  "i-Revive naturopath",
-  "sustainable health solutions",
-  "mind-body healing",
-  "emotional well-being Hyderabad"
+  "Hijama therapy reviews",
+  "cupping therapy testimonials",
+  "i-Revive Hyderabad reviews",
+  "best Hijama center Hyderabad",
+  "natural healing therapy feedback",
+  "wet cupping therapy reviews",
+  "client experiences Hijama",
+  "wellness treatment testimonials",
+  "alternative therapy Hyderabad",
+  "Hijama success stories"
 ],
-
   openGraph: {
-    title: "Asma Moinuddin – MBBS, Naturopath & Holistic Health Expert | i-Revive Hyderabad",
+    title: "Hijama Therapy Reviews | i-Revive Client Testimonials in Hyderabad",
     description:
-      "Dr. Asma Moinuddin, an MBBS and MD in Naturopathic Medicine (USA), is committed to helping  individuals achieve optimal health through natural healing at i-Revive. She offers a holistic approach addressing both physical and emotional well-being",
-    url: "https://www.i-revive.com/profile/asma-moinuddin",
+      "Discover what clients are saying about i-Revive's professional Hijama (Cupping) therapy services in Hyderabad. Real testimonials showcasing natural healing and wellness.",
+    url: "https://www.i-revive.com/review",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -46,13 +45,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Asma Moinuddin – MBBS, Naturopath & Holistic Health Expert | i-Revive Hyderabad",
+    title: "Hijama Therapy Reviews | i-Revive Client Testimonials in Hyderabad",
     description:
-      "Dr. Asma Moinuddin, an MBBS and MD in Naturopathic Medicine (USA), is committed to helping  individuals achieve optimal health through natural healing at i-Revive. She offers a holistic approach addressing both physical and emotional well-being",
+      "Discover what clients are saying about i-Revive's professional Hijama (Cupping) therapy services in Hyderabad. Real testimonials showcasing natural healing and wellness.",
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/profile/asma-moinuddin",
+    canonical: "https://www.i-revive.com/review",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

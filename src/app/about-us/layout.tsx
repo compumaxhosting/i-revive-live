@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CONTACT US | i-Revive Body & Soul",
+  title: "Best Hijama Cupping Therapy Centre Mehdipatnam, Hyderabad",
   description:
     "Visit our Clinic. Address: 6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam, Hyderabad, Telangana 500028, India. Call: +91-8009944335",
   keywords: [
@@ -20,10 +20,10 @@ export const metadata: Metadata = {
     "Top-rated Hijama clinics Hyderabad",
   ],
   openGraph: {
-    title: "CONTACT US | i-Revive Body & Soul",
+    title: "Best Hijama Cupping Therapy Centre Mehdipatnam, Hyderabad",
     description:
       "Visit our Clinic. Address: 6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam, Hyderabad, Telangana 500028, India. Call: +91-8009944335",
-    url: "https://www.i-revive.com/contact-us",
+    url: "https://www.i-revive.com/about-us",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -37,13 +37,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "CONTACT US | i-Revive Body & Soul",
+    title: "Best Hijama Cupping Therapy Centre Mehdipatnam, Hyderabad",
     description:
       "Visit our Clinic. Address: 6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam, Hyderabad, Telangana 500028, India. Call: +91-8009944335",
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/contact-us",
+    canonical: "https://www.i-revive.com/about-us",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",

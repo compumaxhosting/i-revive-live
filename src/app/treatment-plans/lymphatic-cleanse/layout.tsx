@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "Lymphatic Cleanse Therapy in Hyderabad | Detox & Boost Immunity | i-Revive",
     description:
       "Experience the benefits of Lymphatic Cleanse Therapy at i-Revive. Clear blockages, stimulate lymphatic  circulation, and detoxify your body, while enhancing metabolism, boosting immunity, and relieving anxiety and depression",
-    url: "https://www.i-revive.com/sunnah-basic",
+    url: "https://www.i-revive.com/treatment-plans/lymphatic-cleanse",
     images: [
       {
         url: "https://www.i-revive.com/i-revive-og-img.jpg",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["https://www.i-revive.com/i-revive-og-img.jpg"],
   },
   alternates: {
-    canonical: "https://www.i-revive.com/sunnah-basic",
+    canonical: "https://www.i-revive.com/treatment-plans/lymphatic-cleanse",
   },
   other: {
     "google-site-verification": "n9X_WPEBHM7-OhknawUN0VyEknPS3wDy3R9oyYQU1Ek",
