@@ -11,7 +11,7 @@ export default function LevelOne() {
           {/* Left Side: Course Content */}
           <div className="lg:order-1 lg:col-span-1">
             <h1 className="text-2xl md:text-4xl font-semibold text-gray-900 leading-tight">
-              Hijama Practitioner Launchpad 
+              Hijama Practitioner Launchpad
             </h1>
             <div className="mt-6">
               <h2 className="text-xl font-semibold text-gray-900">
@@ -19,15 +19,19 @@ export default function LevelOne() {
               </h2>
               <ul className="mt-2 space-y-2 text-gray-700">
                 <li className="flex flex-col md:flex-row md:items-baseline">
-                  <strong className="md:mr-1">Proficiency:</strong>{" "}
+                  <strong className="md:mr-2">Proficiency:</strong>{" "}
                   <span>Level 1</span>
                 </li>
                 <li className="flex flex-col md:flex-row md:items-baseline">
-                  <strong className="md:mr-1">Duration:</strong>{" "}
+                  <strong className="md:mr-2">Duration:</strong>{" "}
                   <span>5 days (3 days Theory + 2 days Hands-on)</span>
                 </li>
                 <li className="flex flex-col md:flex-row md:items-baseline">
-                  <strong className="md:mr-1">Format:</strong>{" "}
+                  <strong className="md:mr-2">Course Fee:</strong>{" "}
+                  <span>₹ 15,000/-</span>
+                </li>
+                <li className="flex flex-col md:flex-row md:items-baseline">
+                  <strong className="md:mr-2">Format:</strong>{" "}
                   <span>Theory & Practical Training</span>
                 </li>
               </ul>
@@ -66,7 +70,8 @@ export default function LevelOne() {
               </div>
               <div className="flex justify-center">
                 <Link
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSdE3IeK4Ztz_3DCkcqO2bIkieNq3vAxCMF7reIAyH0skP_RfA/viewform?pli=1" target="_blank"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSdE3IeK4Ztz_3DCkcqO2bIkieNq3vAxCMF7reIAyH0skP_RfA/viewform?pli=1"
+                  target="_blank"
                   className="bg-[#557a1f] text-white mt-4 md:mt-6 px-6 py-2 rounded-md border border-green-300 hover:bg-white hover:text-hovershed transition-all duration-300"
                 >
                   Register Now

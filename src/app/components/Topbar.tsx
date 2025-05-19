@@ -25,17 +25,20 @@ const Topbar = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-between md:justify-between items-center">
         {/* Location & Phone - Desktop Only */}
         <div className="items-center space-x-4 ml-3 hidden md:flex">
-          <span className="flex items-center text-lg">
+          <Link
+            href="https://maps.app.goo.gl/3Dqfb2EXgKVMsksz9"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center text-lg hover:underline"
+          >
             <FaLocationDot size={16} className="text-primary mr-1" />
             Mehdipatnam, Hyderabad, Telangana
-          </span>
+          </Link>
         </div>
-       <div className="text-center text-lg hidden lg:flex items-center justify-center space-x-2">
+
+        <div className="text-center text-lg hidden lg:flex items-center justify-center space-x-2">
           <span>Saturday to Thursday 9am to 6pm</span>
-          <FaUserDoctor
-            className="text-blue-600"
-            size={24}
-          />
+          <FaUserDoctor className="text-blue-600" size={24} />
           <FaUserDoctor
             className="text-pink-500"
             size={24}
@@ -43,7 +46,10 @@ const Topbar = () => {
           />
         </div>
         <div className="flex space-x-4 justify-center items-center lg:pr-5">
-          <Link href="tel:+918009944335" className="lg:flex items-center text-lg hidden mr-2">
+          <Link
+            href="tel:+918009944335"
+            className="lg:flex items-center text-lg hidden mr-2"
+          >
             <FaPhoneAlt size={16} className="text-primary mr-1" />
             800-9944-335
           </Link>

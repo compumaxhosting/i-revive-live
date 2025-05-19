@@ -25,7 +25,7 @@ const ThreeCoursesButton: React.FC<ThreeCoursesButtonProps> = ({ activeCourse })
           activeCourse === 1
             ? "bg-[#557a1f] hover:bg-[#557a1f]/80"
             : "bg-primary hover:bg-[#90b457]"
-        } text-white font-semibold px-6 py-3 rounded-md shadow`}
+        } text-white font-semibold px-11 md:px-6 py-3 rounded-md shadow`}
       >
         Level 1: Launchpad
       </button>
@@ -37,7 +37,7 @@ const ThreeCoursesButton: React.FC<ThreeCoursesButtonProps> = ({ activeCourse })
           activeCourse === 2
             ? "bg-[#557a1f] hover:bg-[#557a1f]/80"
             : "bg-primary hover:bg-[#90b457]"
-        } text-white font-semibold px-6 py-3 rounded-md shadow`}
+        } text-white font-semibold px-10 md:px-6 py-3 rounded-md shadow`}
       >
         Level 2: Professional
       </button>
@@ -49,7 +49,7 @@ const ThreeCoursesButton: React.FC<ThreeCoursesButtonProps> = ({ activeCourse })
           activeCourse === 3
             ? "bg-[#557a1f] hover:bg-[#557a1f]/80"
             : "bg-primary hover:bg-[#90b457]"
-        } text-white font-semibold px-6 py-3 rounded-md shadow`}
+        } text-white font-semibold px-3 py-3 rounded-md shadow`}
       >
         Level 3: Personal Mentorship
       </button>

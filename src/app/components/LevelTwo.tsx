@@ -6,7 +6,7 @@ const LevelTwo = () => {
   return (
     <div className="bg-white">
       <ThreeCoursesButton activeCourse={2} />
-      
+
       {/* First Row: Content + Video */}
       <section className="relative bg-white py-4 lg:py-10">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
@@ -21,27 +21,34 @@ const LevelTwo = () => {
               </h2>
               <ul className="mt-2 space-y-2 text-gray-700">
                 <li className="flex flex-col md:flex-row md:items-baseline">
-                  <strong className="md:mr-1">Proficiency:</strong>{" "}
+                  <strong className="md:mr-2">Proficiency:</strong>{" "}
                   <span>Level 2</span>
                 </li>
                 <li className="flex flex-col md:flex-row md:items-baseline">
-                  <strong className="md:mr-1">Duration:</strong>{" "}
-                  <span>4 days + 7 days as intern at i-Revive Wellness Clinic</span>
+                  <strong className="md:mr-2">Duration:</strong>{" "}
+                  <span>
+                    4 days + 7 days as intern at i-Revive Wellness Clinic
+                  </span>
                 </li>
                 <li className="flex flex-col md:flex-row md:items-baseline">
-                  <strong className="md:mr-1">Format:</strong>{" "}
+                  <strong className="md:mr-2">Course Fee:</strong>{" "}
+                  <span>₹ 15,000/-</span>
+                </li>
+                <li className="flex flex-col md:flex-row md:items-baseline">
+                  <strong className="md:mr-2">Format:</strong>{" "}
                   <span>Hands-on practice + Advanced theory</span>
                 </li>
               </ul>
               <div className="mt-4 text-gray-700">
                 <p className="text-justify">
-                  Building upon Level One, this course advances practitioners&apos;
-                  proficiency in Hijama therapy...
+                  Building upon Level One, this course advances
+                  practitioners&apos; proficiency in Hijama therapy...
                 </p>
               </div>
               <div className="flex justify-center">
                 <Link
-                  href="https://forms.gle/paAerg5ZXoZFJJTH7" target="_blank"
+                  href="https://forms.gle/paAerg5ZXoZFJJTH7"
+                  target="_blank"
                   className="bg-[#557a1f] text-white mt-4 md:mt-6 px-6 py-2 rounded-md border border-green-300 hover:bg-white hover:text-hovershed transition-all duration-300"
                 >
                   Register Now
@@ -85,7 +92,9 @@ const LevelTwo = () => {
             </h3>
             <ul className="list-disc list-inside mt-2 space-y-1 text-gray-700">
               <li>Those who have completed Level 1.</li>
-              <li>Practitioners looking to master advanced Hijama techniques.</li>
+              <li>
+                Practitioners looking to master advanced Hijama techniques.
+              </li>
             </ul>
           </div>
 
