@@ -10,7 +10,7 @@ export default function LevelThree() {
       <CourseDate />
       <RegistrationButton
         href="https://wa.me/+918009944335"
-        label="WhatsApp us to Register"
+        label="Enroll"
       />
       {/* First Row: Content + Video */}
       <section className="relative bg-white py-4 lg:py-10">

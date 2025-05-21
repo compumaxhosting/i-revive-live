@@ -10,7 +10,7 @@ export default function LevelOne() {
       <CourseDate />
       <RegistrationButton
         href="https://docs.google.com/forms/d/e/1FAIpQLSdE3IeK4Ztz_3DCkcqO2bIkieNq3vAxCMF7reIAyH0skP_RfA/viewform?pli=1"
-        label="Register for Course 1"
+        label="Enroll"
       />
       {/* First Row: Content + Video */}
       <section className="relative bg-white py-4 md:pt-10 lg:pb-10">

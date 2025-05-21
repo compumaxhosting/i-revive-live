@@ -11,7 +11,7 @@ const LevelTwo = () => {
       <CourseDate />
       <RegistrationButton
         href="https://docs.google.com/forms/d/e/1FAIpQLScFgFsU8Ls7TKfd9ZtUXjHlZJuz40ERMuNwQLSkoEcodOcOAA/viewform"
-        label="Register for Course 2"
+        label="Enroll"
       />
       {/* First Row: Content + Video */}
       <section className="relative bg-white py-4 lg:py-10">
