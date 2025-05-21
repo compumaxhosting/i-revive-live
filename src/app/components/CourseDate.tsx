@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X } from "lucide-react";
 import { usePathname } from "next/navigation";
+import Link from "next/link";
 
 export function CourseDate() {
   const [isOpen, setIsOpen] = useState(false);
@@ -95,15 +96,15 @@ export function CourseDate() {
                         key={index}
                         className="group p-4 md:p-5 rounded-lg bg-gray-300 hover:bg-primary text-gray-800 hover:text-white shadow-sm hover:shadow-md transition-all block"
                       >
-                        <h2 className="text-lg font-semibold mb-1">
+                        <h2 className="text-md md:text-lg font-semibold mb-1">
                           Level <span className="font-sans font-medium">{course.level}</span>
                         </h2>
-                        <h3 className="text-xl font-bold text-green-700 group-hover:text-white mb-2">
+                        <h3 className="text-md md:text-lg font-bold text-green-700 group-hover:text-white mb-2">
                           {course.title}
                         </h3>
 
                         {course.isWhatsApp ? (
-                          <a
+                          <Link
                             href={course.whatsappUrl}
                             target="_blank"
                             rel="noopener noreferrer"
@@ -111,7 +112,7 @@ export function CourseDate() {
                             className="underline text-sm group-hover:text-white"
                           >
                             {course.whatsappText}
-                          </a>
+                          </Link>
                         ) : (
                           course.dates && (
                             <div className="relative">

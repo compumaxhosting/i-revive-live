@@ -1,4 +1,5 @@
 import BackToTop from '@/app/components/BackToTop'
+import Breadcrumb from '@/app/components/BreadCrumb'
 import Footer from '@/app/components/Footer'
 import Header from '@/app/components/Header'
 import LevelTwo from '@/app/components/LevelTwo'
@@ -11,12 +12,13 @@ const page = () => {
     <div>
       <Topbar />
       <Header />
+      <Breadcrumb title="Course 2" />
       <LevelTwo />
       <Footer />
       <BackToTop />
       <PhoneCall />
     </div>
-  )
+  );
 }
 
 export default page

@@ -1,12 +1,19 @@
 import Link from "next/link";
 import ThreeCoursesButton from "./ThreeCoursesButton";
+import { CourseDate } from "./CourseDate";
+import { RegistrationButton } from "./RegistrationButton";
 
 export default function LevelOne() {
   return (
-    <div className="bg-white">
+    <div className="bg-white md:pt-2">
       <ThreeCoursesButton activeCourse={1} />
+      <CourseDate />
+      <RegistrationButton
+        href="https://docs.google.com/forms/d/e/1FAIpQLSdE3IeK4Ztz_3DCkcqO2bIkieNq3vAxCMF7reIAyH0skP_RfA/viewform?pli=1"
+        label="Register for Course 1"
+      />
       {/* First Row: Content + Video */}
-      <section className="relative bg-white py-4 lg:py-10">
+      <section className="relative bg-white py-4 md:pt-10 lg:pb-10">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           {/* Left Side: Course Content */}
           <div className="lg:order-1 lg:col-span-1">

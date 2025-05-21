@@ -12,7 +12,20 @@ const Breadcrumb: React.FC<BreadcrumbProps> = ({ title, subtitle }) => {
     <div className="relative bg-primary min-h-[190px] flex items-end pb-0 mb-24">
       <div className="w-full absolute bottom-[-60px] md:bottom-[-100px] px-4 sm:px-20">
         <div className="max-w-3xl mx-auto bg-white rounded-2xl shadow-xl px-12 py-12 md:py-14 text-center">
-          <h1 className="text-4xl md:text-5xl font-semibold text-gray-800">{title}</h1>
+          <h1 className="text-4xl md:text-5xl font-semibold text-gray-800">
+            {title.split(/(\d+)/).map((part, index) =>
+              /\d+/.test(part) ? (
+                <span
+                  key={index}
+                  className="font-semibold not-italic"
+                >
+                  {part}
+                </span>
+              ) : (
+                <span key={index}>{part}</span>
+              )
+            )}
+          </h1>
           {subtitle && (
             <p className="mt-4 text-gray-500 font-serif text-sm sm:text-base">
               {subtitle}

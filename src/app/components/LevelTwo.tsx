@@ -1,12 +1,18 @@
 import React from "react";
 import ThreeCoursesButton from "./ThreeCoursesButton";
 import Link from "next/link";
+import { CourseDate } from "./CourseDate";
+import { RegistrationButton } from "./RegistrationButton";
 
 const LevelTwo = () => {
   return (
-    <div className="bg-white">
+    <div className="bg-white md:pt-4">
       <ThreeCoursesButton activeCourse={2} />
-
+      <CourseDate />
+      <RegistrationButton
+        href="https://docs.google.com/forms/d/e/1FAIpQLScFgFsU8Ls7TKfd9ZtUXjHlZJuz40ERMuNwQLSkoEcodOcOAA/viewform"
+        label="Register for Course 2"
+      />
       {/* First Row: Content + Video */}
       <section className="relative bg-white py-4 lg:py-10">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
