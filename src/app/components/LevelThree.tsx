@@ -8,10 +8,7 @@ export default function LevelThree() {
     <div className="bg-white md:pt-4">
       <ThreeCoursesButton activeCourse={3} />
       <CourseDate />
-      <RegistrationButton
-        href="https://wa.me/+918009944335"
-        label="Enroll"
-      />
+      <RegistrationButton href="https://wa.me/+918009944335" label="Enroll" />
       {/* First Row: Content + Video */}
       <section className="relative bg-white py-4 lg:py-10">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
@@ -189,6 +186,30 @@ export default function LevelThree() {
                 Integration of modern science with traditional Hijama practices.
               </li>
             </ul>
+          </div>
+          {/* Introductory Content Block */}
+          <div className="w-full p-6 bg-gray-100 rounded-2xl shadow-md mb-6">
+            <h3 className="text-2xl font-semibold text-gray-900 mb-4 text-center md:text-left">
+              Level Three Hijama Masterclass in Hyderabad – Expert Cupping
+              Therapy Training
+            </h3>
+            <p className="text-lg text-gray-700 mb-4 text-justify">
+              Step into mastery with our Level Three Hijama Training Course in
+              Hyderabad – designed for experienced practitioners ready to
+              specialize. This course covers advanced diagnostic techniques, wet
+              and dry cupping combinations, and patient management protocols.
+            </p>
+            <p className="text-lg text-gray-700 mb-4 text-justify">
+              Ideal for those searching for a Hijama training centre near me or
+              a ladies Hijama masterclass in Hyderabad,{" "}
+              <strong>I-Revive</strong> offers expert-led sessions with
+              certification to help elevate your practice.
+            </p>
+            <p className="text-lg text-gray-700 text-justify">
+              <strong>Become a top-tier Hijama therapist</strong> and gain the
+              skills to handle complex cases with confidence. Enroll today at
+              the best Hijama cupping therapy training centre in Hyderabad.
+            </p>
           </div>
         </div>
       </section>

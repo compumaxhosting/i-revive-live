@@ -118,7 +118,7 @@ const LevelTwo = () => {
           </div>
 
           {/* Why Choose Our Course */}
-          <div className="w-full p-6 mb-12 bg-gray-100 rounded-2xl shadow-md">
+          <div className="w-full p-6 bg-gray-100 rounded-2xl shadow-md">
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">
               Why Choose Our Course?
             </h3>
@@ -136,6 +136,30 @@ const LevelTwo = () => {
                 standards.
               </li>
             </ul>
+          </div>
+          {/* Introductory Content Block */}
+          <div className="w-full p-6 mb-6 bg-gray-100 rounded-2xl shadow-md">
+            <h3 className="text-2xl font-semibold text-gray-900 mb-4 text-center md:text-left">
+              Advanced Hijama Training in Hyderabad – Level Two Certification
+            </h3>
+            <p className="text-lg text-gray-700 mb-4 text-justify">
+              Already completed Level One? Take your skills further with our
+              Level Two Hijama Cupping Therapy Course in Hyderabad. Designed for
+              certified practitioners, this advanced training covers deep
+              cupping techniques, case studies, and client care.
+            </p>
+            <p className="text-lg text-gray-700 mb-4 text-justify">
+              If you&apos;re searching for a Hijama training centre in Hyderabad
+              near me or an advanced Hijama course for ladies,{" "}
+              <strong>I-Revive</strong> offers expert-led sessions with
+              personalized guidance.
+            </p>
+            <p className="text-lg text-gray-700 text-justify">
+              Join the best Hijama training centre in Hyderabad, trusted by
+              professionals across the city.{" "}
+              <strong>Advance your practice</strong> and gain deeper insights
+              into the therapeutic benefits of Hijama cupping.
+            </p>
           </div>
         </div>
       </section>

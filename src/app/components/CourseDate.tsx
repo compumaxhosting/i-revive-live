@@ -48,10 +48,10 @@ export function CourseDate() {
     <>
       {!isOpen && (
         <button
-          className={`fixed right-0 ${buttonTopPosition} mt-[-115px] md:mt-0 md:top-[330px] z-40 btn_hotline`}
+          className={`fixed right-0 ${buttonTopPosition} mt-[-120px] md:mt-0 md:top-[330px] z-40 btn_hotline`}
           onClick={() => setIsOpen(true)}
         >
-          <div className="px-5 py-3 bg-blackshed border border-gray-400 hover:bg-primary/80 text-white uppercase font-semibold rounded-l-3xl">
+          <div className="px-4 py-2 bg-blackshed border border-gray-400 hover:bg-primary/80 text-white uppercase font-medium rounded-l-3xl">
             View Course Dates
           </div>
         </button>

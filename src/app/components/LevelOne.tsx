@@ -163,6 +163,26 @@ export default function LevelOne() {
               <li>Hygiene, sterilization, and safety protocols</li>
             </ul>
           </div>
+          {/* Introductory Content Block */}
+          <div className="w-full p-6 bg-gray-100 rounded-2xl shadow-md mb-6">
+            <h3 className="text-2xl font-semibold text-gray-900 mb-4 text-center md:text-left">
+              Level One Hijama Course in Hyderabad – For Men & Women
+            </h3>
+            <p className="text-lg text-gray-700 mb-4 text-justify">
+              Join the best Hijama training centre in Hyderabad, trusted by
+              hundreds of students. Our cupping therapy course is ideal for
+              beginners, with hands-on training in a safe, professional setting.
+            </p>
+            <p className="text-lg text-gray-700 mb-4 text-justify">
+              Whether you&apos;re searching for “Hijama training near me”, or looking
+              for a ladies-only Hijama training centre, I-Revive has a program
+              for you. Certified trainers. Affordable pricing.
+            </p>
+            <p className="text-lg text-gray-700 text-justify">
+              <strong>Enroll today</strong> at the top Hijama cupping therapy
+              training center in Hyderabad.
+            </p>
+          </div>
         </div>
       </section>
     </div>

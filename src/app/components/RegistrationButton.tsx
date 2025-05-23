@@ -29,9 +29,9 @@ export function RegistrationButton({
       href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className={`fixed right-0 ${buttonTopPosition} mt-[-115px] md:mt-0 md:top-[390px] z-40 btn_hotline`}
+      className={`fixed right-0 ${buttonTopPosition} mt-[-126px] md:mt-0 md:top-[390px] z-40 btn_hotline`}
     >
-      <div className="px-5 py-3 bg-blackshed border border-gray-400 hover:bg-primary/80 text-white uppercase font-semibold rounded-l-3xl">
+      <div className="px-4 py-2 bg-blackshed border border-gray-400 hover:bg-primary/80 text-white uppercase font-medium rounded-l-3xl">
         {label}
       </div>
     </Link>
